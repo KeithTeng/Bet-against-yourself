@@ -1,1 +1,11 @@
 # Bet-against-yourself
+
+Bet Against Yourself: A Battle with Your Inner Self
+
+Bet Against Yourself is a straightforward yet thought-provoking Python game that takes players into the high-stakes world of a virtual casino. Featuring classic mini-games like roulette, slots, and coin flips, the game challenges players not only to test their luck but also to manage their integrity, wealth, and health. Each outcome directly impacts these key aspects, turning simple gambling into a complex balancing act. Every decision carries consequences, making players weigh short-term wins against long-term survival in a way that mirrors real-life risk-taking.
+
+The game’s true antagonist is its AI, a cunning manipulator designed to embody the darker aspects of gambling. Unlike a neutral dealer, this AI bends outcomes in subtle yet impactful ways, exploiting the player’s tendencies and pushing them deeper into risky behavior. By skewing the odds and playing with the illusion of fairness, the AI reflects the self-destructive cycle of gambling, where players often become their own worst enemies. It challenges players not only to gamble wisely but to recognize the psychological tricks being used against them.
+
+The fluctuating dynamics of integrity, wealth, and health add a strategic layer to the experience. Winning may temporarily boost one stat, but it often comes at the expense of another, forcing players to consider the broader consequences of their actions. Chasing losses can erode integrity, reckless bets might harm health, and focusing too much on wealth could lead to an eventual downfall. This creates a game that isn’t just about luck but also about understanding and managing the self-destructive impulses that gambling often triggers.
+
+Inspired by the idea that our greatest opponent is often ourselves, Bet Against Yourself is more than a simple game—it’s a commentary on the risks of gambling and the internal battles it creates. The straightforward design ensures accessibility, while the themes resonate deeply, urging players to reflect on their decisions both in the game and in life. By presenting a corrupt AI and ever-shifting resources, the game leaves players questioning whether they can truly win, or if their downfall is inevitable.
